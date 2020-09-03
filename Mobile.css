@@ -1,0 +1,131 @@
+@media only screen and (min-device-width:668px){
+	#b{
+		display: none;
+	}
+}
+@font-face{
+	font-family: xyz;
+	src:url(klavika-bold.otf);
+}
+@font-face{
+	font-family: abc;
+	src:url(klavika-bold-italic.otf);
+}
+
+body{
+	 background-color: #E9EBEE;
+}
+
+#H1M{
+	font-family: xyz;
+	background-color:#3b5999;
+	color:White;
+}
+
+#span1M{
+	 font-family: abc;
+	 width:100%;
+}
+
+#A1M{
+	 position:relative;
+	 top:55px;
+	 right:20px;
+	 text-decoration: none;
+}
+
+#FirstButtonM{
+	 position:absolute;
+	 right:14px;
+	 top:28px;
+	 padding:3px;
+	 border:solid 1px #0000FF;
+	 background-color: #42B72A;
+	 color:white;
+}
+
+img{
+	 position: absolute;
+	 top:83px;
+	 left: 13px;
+	 width:18px;
+}
+
+#FirstPM{
+	 border:solid 1px #c4a667;
+	 background-color: #ffff9f;
+	 height:30px;
+	 width:94%;
+	 padding:2px 2px 2px 25px;
+	 font-family: arial;
+}
+
+#SecondPM{
+	 font-family:arial;
+	 font-weight:400;
+	 color:Gray;
+	 margin-left: 5px;
+}
+
+#FirstInputM{
+	  width:96%;
+	  height:30px;
+	  margin:5px;
+	  position:relative;
+	  bottom:15px;
+}
+
+#ThirdP{
+	 font-family:arial;
+	 font-weight:400;
+	 color:Gray;
+	 margin-left: 5px;
+	 position:relative;
+	 bottom:15px;
+}
+
+#SecondInputM{
+	 width:96%;
+	 height:30px;
+	 margin:5px;
+	 position:relative;
+	 bottom:30px;
+}
+
+#SBM{
+	 background-color: #3b5999;
+	 width:98%;
+	 height:40px;
+	 color:White;
+	 border:solid 1px DarkBlue;
+	 margin:5px;
+	 position:relative;
+	 bottom:15px;
+	 font-weight: 700;
+}
+
+#FirstHr{
+	 width:40%;
+	 position:relative;
+	 right:135px;
+}
+
+#SecondSpan{
+	 position: absolute;
+	 top:355px;
+	 left:49%;
+}
+
+#SecondHr{
+	 width:40%;
+	 position:relative;
+	 bottom:10px;
+	 left:135px;
+}
+ 
+#A1M{
+	 position:relative;
+	 top:55px;
+	 right:20px;
+	 text-decoration: none;
+}
